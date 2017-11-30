@@ -29,7 +29,9 @@ public void main Something {
 }
 
 public void SomethingSomething {
+    String test = 'abcdefghijklmn'
+    int number = 1234567890
+    boolean boo = true
+
     System.println("test add new line")
 }
-
-#note: try to make a conflict
