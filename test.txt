@@ -23,3 +23,7 @@ Opposite1=Math.sqrt(Opposite1);
 System.out.println("Opposite: "+Opposite1);
     }
 }
+
+public void main Something {
+    System.println("test add new line")
+}
