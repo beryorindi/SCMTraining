@@ -27,3 +27,7 @@ System.out.println("Opposite: "+Opposite1);
 public void main Something {
     System.println("test add new line")
 }
+
+public void SomethingSomething {
+    System.println("test add new line")
+}
