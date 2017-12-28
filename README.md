@@ -1,2 +1,2 @@
 # SCMTraining
-This is for SCM Training Working Level Mitrais
+This is pull request for SCM Training Working
